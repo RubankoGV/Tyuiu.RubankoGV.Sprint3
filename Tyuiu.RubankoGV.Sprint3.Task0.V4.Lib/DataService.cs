@@ -5,14 +5,13 @@ namespace Tyuiu.RubankoGV.Sprint3.Task0.V4.Lib
     {
         public double GetMultiplySeries(int startValue, int stopValue)
         {
-            double MultiplySeries = 0;
-            int i;
-            for (i = startValue; i <= stopValue; i++)
-            {
-                MultiplySeries = Math.Pow((Math.Sin(0.1) + 1), 7);
-
+                double sumSeries = 1;
+                int i;
+                for (i = startValue; i <= stopValue; i++)
+                {
+                    sumSeries = sumSeries * (Math.Sin(0.1) + i);
+                }
+                return Math.Round(sumSeries, 3);
             }
-            return Math.Round(MultiplySeries, 3);
-        }
     }
 }

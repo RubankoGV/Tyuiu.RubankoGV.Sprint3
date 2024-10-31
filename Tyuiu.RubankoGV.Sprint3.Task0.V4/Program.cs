@@ -23,18 +23,17 @@ namespace Tyuiu.RubankoGV.Sprint3.Task0.V4
 
             DataService ds = new DataService();
             int startValue = 1;
-            int stopValue = 10;
+            int stopValue = 7;
 
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
+
+
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
+            Console.WriteLine("* РЕЗУЛЬТАТ;                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            
-            Console.WriteLine("Ответ = " + ds.GetMultiplySeries(startValue, stopValue));
-           
-
+            Console.WriteLine("Сумма ряда = " + ds.GetMultiplySeries(startValue, stopValue));
             Console.ReadKey();
         }
     }
