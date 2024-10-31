@@ -26,7 +26,7 @@ namespace Tyuiu.RubankoGV.Sprint3.Task0.V4
             int stopValue = 7;
 
             Console.WriteLine("Старт шага = " + startValue);
-            Console.WriteLine("Конец шага = " + stopValue);
+            Console.WriteLine("Конец шаг = " + stopValue);
 
 
             Console.WriteLine("***************************************************************************");
