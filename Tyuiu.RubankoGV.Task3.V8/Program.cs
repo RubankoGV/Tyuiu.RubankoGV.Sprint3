@@ -1,5 +1,5 @@
-﻿using Tyuiu.RubankoGV.Task3.V8.Lib;
-namespace Tyuiu.RubankoGV.Task3.V8
+﻿using Tyuiu.RubankoGV.Sprint3.Task3.V8.Lib;
+namespace Tyuiu.RubankoGV.Sprint3.Task3.V8
 {
     internal class Program
     {

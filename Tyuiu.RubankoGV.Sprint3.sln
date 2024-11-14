@@ -29,11 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.RubankoGV.Sprint3.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{B87B2A40-C642-4EB3-918B-6E6D268038B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubankoGV.Task3.V8", "Tyuiu.RubankoGV.Task3.V8\Tyuiu.RubankoGV.Task3.V8.csproj", "{B3A4FA89-CA23-4B6B-A98B-D36797B177DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubankoGV.Sprint3.Task3.V8", "Tyuiu.RubankoGV.Task3.V8\Tyuiu.RubankoGV.Sprint3.Task3.V8.csproj", "{B3A4FA89-CA23-4B6B-A98B-D36797B177DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubankoGV.Task3.V8.Lib", "Tyuiu.RubankoGV.Task3.V8.Lib\Tyuiu.RubankoGV.Task3.V8.Lib.csproj", "{49C4D337-8709-4EF8-8F81-D1880BDDA787}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubankoGV.Sprint3.Task3.V8.Lib", "Tyuiu.RubankoGV.Task3.V8.Lib\Tyuiu.RubankoGV.Sprint3.Task3.V8.Lib.csproj", "{49C4D337-8709-4EF8-8F81-D1880BDDA787}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubankoGV.Task3.V8.Test", "Tyuiu.RubankoGV.Task3.V8.Test\Tyuiu.RubankoGV.Task3.V8.Test.csproj", "{B51121A9-5FD5-43FD-83B0-C308F6BFAACF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RubankoGV.Sprint3.Task3.V8.Test", "Tyuiu.RubankoGV.Task3.V8.Test\Tyuiu.RubankoGV.Sprint3.Task3.V8.Test.csproj", "{B51121A9-5FD5-43FD-83B0-C308F6BFAACF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

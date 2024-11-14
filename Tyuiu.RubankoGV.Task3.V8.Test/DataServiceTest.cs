@@ -1,5 +1,5 @@
-using Tyuiu.RubankoGV.Task3.V8.Lib;
-namespace Tyuiu.RubankoGV.Task3.V8.Test
+using Tyuiu.RubankoGV.Sprint3.Task3.V8.Lib;
+namespace Tyuiu.RubankoGV.Sprint3.Task3.V8.Test
 {
     public class Tests
     {
